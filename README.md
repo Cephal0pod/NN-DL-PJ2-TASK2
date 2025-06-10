@@ -67,4 +67,4 @@ We train both models under multiple learning rates, record step-wise losses, and
 ## Resources
 
 - **Google Drive (Models)**  
-  [Download Trained Models](https://drive.google.com/drive/folders/1mEz_xYETe3QokT1kfWuzYMuxXJSNfq5O?usp=sharing)
+  [Download Trained Models](https://drive.google.com/drive/folders/1nhPALXKxsfLPDJ7yVDPwLUtKowThy3r1?usp=sharing)
