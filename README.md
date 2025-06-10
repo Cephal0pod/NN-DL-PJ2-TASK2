@@ -20,12 +20,6 @@ We train both models under multiple learning rates, record step-wise losses, and
 │       │   └── nn.py
 │       ├── loaders.py
 │       └── VGG_Loss_Landscape.py
-├── reports
-│   ├── figures
-│   │   ├── loss_landscape_nobn.png
-│   │   ├── loss_landscape_bn.png
-│   │   └── loss_landscape_comparison.png
-│   └── task2_batchnorm_report.tex
 └── README.md
 ```
 
