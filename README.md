@@ -58,6 +58,6 @@ We train both models under multiple learning rates, record step-wise losses, and
 3. Generated loss data and figures will be saved in `reports/figures/` and `losses/`.
 
 ## Results
-- `loss_landscape_nobn.png`: Loss envelope for Standard VGG.
-- `loss_landscape_bn.png`: Loss envelope for VGG + BatchNorm.
-- `loss_landscape_comparison.png`: Mean loss comparison.
+- ![Loss envelope for Standard VGG](loss_landscape_nobn.png).
+- ![Loss envelope for VGG + BatchNorm](loss_landscape_bn.png).
+- ![Mean loss comparison](loss_landscape_comparison.png).
