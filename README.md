@@ -61,3 +61,10 @@ We train both models under multiple learning rates, record step-wise losses, and
 - ![Loss envelope for Standard VGG](loss_landscape_nobn.png).
 - ![Loss envelope for VGG + BatchNorm](loss_landscape_bn.png).
 - ![Mean loss comparison](loss_landscape_comparison.png).
+
+---
+
+## Resources
+
+- **Google Drive (Models)**  
+  [Download Trained Models](https://drive.google.com/drive/folders/1mEz_xYETe3QokT1kfWuzYMuxXJSNfq5O?usp=sharing)
